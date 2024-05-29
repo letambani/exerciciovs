@@ -1,9 +1,6 @@
 body {
     font-family: Arial, sans-serif;
     background-image: url("images/background.gif");
-    background_size: cover;
-    Background_repeat: no-repeat;
-    background_position: center;
     margin: 0;
     padding: 0;
     display: flex;
