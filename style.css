@@ -29,6 +29,7 @@ button {
     border-radius: 4px;
     background-color: #320074;
     color: white;
+    opacity: 0.8;
 }
 
 button:hover {
