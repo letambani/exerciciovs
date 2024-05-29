@@ -18,13 +18,13 @@ body {
 }
 
 button {
-    padding: 10px 20px;
-    font-size: 16px;
+    padding: 10px 30px;
+    font-size: 12px;
     margin-top: 20px;
     cursor: pointer;
     border: none;
     border-radius: 4px;
-    background-color: #007BFF;
+    background-color: #320074;
     color: white;
 }
 
