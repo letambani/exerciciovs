@@ -6,4 +6,4 @@ Eu sou uma estudante de Análise e Desenvolvimento de Sistemas com experiência 
 
 Para essa atividade, o desafio era criar 3 arquivos no vscode, sendo: .html, .js e .css. 
 
-[👩‍💻 Clique aqui e veja o meu desafio!]()
+[👩‍💻 Clique aqui e veja o meu desafio!](https://letambani.github.io/exerciciovs/)
